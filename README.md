@@ -2,7 +2,7 @@
 
 # 🚀 My Daily Coding Journey
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+Vibhanshu+Srivastava's+Repo;Eating+Data+Structures;Sleeping+with+Algorithms;Visualizing+Code+with+Dry+Runs;Java+%26+Python+Mastery" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Vibhanshu+Srivastava's+Repo;Eating+Data+Structures;Sleeping+with+Algorithms;Visualizing+Code+with+Dry+Runs;Java+%26+Python+Mastery" alt="Typing SVG" />
 
 <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
