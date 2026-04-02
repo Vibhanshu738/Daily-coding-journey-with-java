@@ -18,7 +18,7 @@
 ---
 
 ## 🧐 About The Repository
-Hi, I'm **Vishal Yadav**! 👋 This repository is my digital garden where I document my daily progress in **Data Structures and Algorithms**. 
+Hi, I'm **Vibhanshu Srivastava**! 👋 This repository is my digital garden where I document my daily progress in **Data Structures and Algorithms**. 
 
 Unlike standard code dumps, this repo focuses on:
 * **🧠 Deep Understanding:** Not just copying code, but dissecting logic.
