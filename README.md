@@ -82,6 +82,7 @@ Unlike standard code dumps, this repo focuses on:
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
