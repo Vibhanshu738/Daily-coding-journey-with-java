@@ -69,6 +69,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0054-spiral-matrix) |
@@ -88,6 +89,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
@@ -230,4 +232,8 @@ Unlike standard code dumps, this repo focuses on:
 | [0402-remove-k-digits](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
