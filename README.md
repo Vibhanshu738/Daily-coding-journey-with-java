@@ -92,6 +92,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0008-string-to-integer-atoi](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -148,6 +149,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0138-copy-list-with-random-pointer) |
+| [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
