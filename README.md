@@ -81,6 +81,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0204-count-primes](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0735-asteroid-collision) |
@@ -145,10 +146,12 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +173,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -263,4 +267,20 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
