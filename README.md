@@ -77,6 +77,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0084-largest-rectangle-in-histogram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0239-sliding-window-maximum) |
@@ -244,6 +245,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
