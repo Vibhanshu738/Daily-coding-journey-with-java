@@ -285,4 +285,8 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
