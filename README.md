@@ -100,6 +100,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0151-reverse-words-in-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -160,6 +161,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Stack
@@ -202,6 +204,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
