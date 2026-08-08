@@ -102,6 +102,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -299,4 +300,8 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
