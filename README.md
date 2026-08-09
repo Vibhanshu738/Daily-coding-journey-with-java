@@ -100,6 +100,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0014-longest-common-prefix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0796-rotate-string) |
@@ -118,6 +119,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0904-fruit-into-baskets) |
