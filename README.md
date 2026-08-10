@@ -88,6 +88,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0735-asteroid-collision](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -170,6 +171,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0496-next-greater-element-i](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0424-longest-repeating-character-replacement](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -307,4 +310,8 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
