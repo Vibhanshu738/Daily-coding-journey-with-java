@@ -70,6 +70,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0001-two-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0054-spiral-matrix) |
@@ -185,6 +186,7 @@ Unlike standard code dumps, this repo focuses on:
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
