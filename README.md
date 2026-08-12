@@ -89,6 +89,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0503-next-greater-element-ii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0735-asteroid-collision) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -194,6 +195,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -322,4 +324,8 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0992-subarrays-with-k-different-integers) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
