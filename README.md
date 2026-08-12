@@ -190,6 +190,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0704-binary-search) |
@@ -202,6 +203,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0002-add-two-numbers](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
