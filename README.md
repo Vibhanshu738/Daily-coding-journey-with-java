@@ -98,6 +98,7 @@ Unlike standard code dumps, this repo focuses on:
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1552-magnetic-force-between-two-balls) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
@@ -127,6 +128,7 @@ Unlike standard code dumps, this repo focuses on:
 | [0088-merge-sorted-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0242-valid-anagram) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Unlike standard code dumps, this repo focuses on:
 | [1004-max-consecutive-ones-iii](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
