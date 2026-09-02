@@ -245,11 +245,13 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Unlike standard code dumps, this repo focuses on:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -282,6 +285,7 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -338,4 +342,8 @@ Unlike standard code dumps, this repo focuses on:
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0852-peak-index-in-a-mountain-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vibhanshu738/Daily-coding-journey-with-java/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
